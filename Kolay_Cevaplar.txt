@@ -1,0 +1,25 @@
+A)Kac gun kaldi?	B)Kacta gelirsin?	C)Kac gibi biter?	-D)Kaca gidiyorsun?
+-A)Direk	B)Kemer 	C)Delik 	D)Kemik
+-A)Dirayetli	B)Temkinli	C)Gorgulu	D)Sihhatli
+-A)Darbuka	B)Kanun	C)Piyano	D)Keman
+A)Uc vakte kadar	-B)Sonsuza kadar	C)Kirk gun kirk gece	D)Ay sonuna kadar
+A)6	B)9	-C)12	D)15
+A)Sinema filmi	-B)Televizyon dizisi	C)Futbol maci	D)Haber bulteni
+-A)9	B)18	C)27	D)36
+-A)Kara kedi	B)Kara koyun	C)Kara keci	D)Kara tavuk
+A)Elma	B)Limon	C)Domates	-D)Portakal
+A)Dortdortluk	B)Dortkenar	 C)Dortceker	-D)Dortkose
+A)Kitap	-B)Harclik C)Cicek D)Tansiyon aleti
+-A)Dudak okumak	B)Kulak asmak	C)Dudak bukmek	D)Kulak kesilmek
+A)Draco Malfoy	B)Rubeus Hagrid	C)Tom Marvolo Riddle	-D)Severus Snape
+A)Pilot	-B)Demo	C)Tera	D)Backup
+A)Makas	-B)Kilit	C)Zincir	D)serit
+A)Sirke	-B)Tuz	C)Sut	   D)Seker
+-A)Besgen   B)Altigen	C)Ucgen	 D)Dortgen
+A)Kollarin neden bu kadar uzun	B)Dislerin neden bu kadar sivri?	C)Kulaklarin neden bu kadar buyuk	-D)Bakislarin neden bu kadar derin?
+A)Oksijen	B)Hidrojen	-C)Azot	D)Helyum
+-A)16	B)-5	C)21	D)14
+A)Kodu calistirmak icin kullanilir	B)Kodu devam ettirmek icin kullanilir	-C)Donguden cikmak icin kullanilir	D)Donguyu en basa dondurur
+A)1011 1100	   -B)0001 1000	 C)0100 0011	D)1001 1100
+A)0110 0100		B)0011 0110		-C)1001 0010	D)1001 0011
+A)Yazilan kod dizisindeki hatalari tarar		B)Kodun yanlis kismini tarayarak otomatik bir sekilde duzeltir	-C)Kullanicinin klavyeden girdigi degeri okur	D)Kod dizisinde arama bolmesini ortaya cikarir

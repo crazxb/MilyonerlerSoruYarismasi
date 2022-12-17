@@ -10,6 +10,8 @@ int Kolay_Sorular(int okunacak_satir);
 int Kolay_Cevaplar(int okunacak_satir);
 int Orta_Sorular(int okunacak_satir);
 int Orta_Cevaplar(int okunacak_satir);
+int Zor_Sorular(int okunacak_satir);
+int Zor_Cevaplar(int okunacak_satir);
 int Para_Havuzu(int *genel_sayac);
 
 char Kolay_CevapAnahtari[26]={'D','A','A','A','B','C','B','A','A','D','D','B','A','D','B','B','B','A','D','C','A','C','B','C','C'};

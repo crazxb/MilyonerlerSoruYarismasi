@@ -28,7 +28,7 @@ char zorCVPA[CVP_ANAHTAR_U]={'C','B','C','D','B','C','A','C','D','C','D','A','C'
 
 //---FONKSİYONLARIN PROTOTİPLERİ/AÇIKLAMASI---
 void tanitim(void);   //   <<
-void cevapAl_Byap(void);   //KULLANICI CEVAP ALIP BÜYÜK HARFE DÖNDÜRÜR   <<
+void cevapAl_Byap(void);   //KULLANICI CEVAp ALIP BÜYÜK HARFE DÖNDÜRÜR   <<
 
 void yariYariJ(void); //YARI YARIYA JOKERİ  
 void ikiCevapJ(void); //İKİ CEVAP JOKERİ -BU JOKER 7. SORU DOĞRU BİLİNDİYSE KULLANILABİLİR-   <<
@@ -46,7 +46,7 @@ void oSiklar(void); //Orta_cevaplar.txt DOSYASINDAN RANDOM SORU ÇEKER   <<
 void zRandSoru(void); //Zor_sorular.txt DOSYASINDAN RANDOM SORU ÇEKER   <<
 void zSiklar(void); //Zor_cevaplar.txt DOSYASINDAN ÇEKİLEN SORUNUN ŞIKLARINI YAZDIRIR   <<
 
-int CVPkontrol(void); //KULLANICI CEVABINI KONTROL EDER KULLANACAĞI JOKERLER, SORU ŞIKLARINI) 
+int CVPkontrol(void); //KULLANICI CEVABINI KONTROL EDER (ÇEKİLİP ÇEKİLMEDİĞİNİ,KULLANACAĞI JOKERLER, SORU ŞIKLARINI) 
 int parEkle( int *); //SAYAC A GÖRE KAZANDIĞI PARAYI EKLER//(POİNTER KULLANILDI)   <<
 
 
@@ -81,12 +81,10 @@ int main(){
                     cevapAl_Byap();
                     } while(cevap[0] != 'E' && cevap[0] != 'H');
                         if(cevap[0] == 'E'){
-                            printf("Yarışmadan %d ₺ ile çekildin\n",para);    
-                            break;
-                        }     
+                            break; 
                         system("cls");
                         continue;
-                                  
+                    }          
                 }   
             }
             else if(x==0){
@@ -101,7 +99,12 @@ int main(){
             tekrar=getch();
             tekrar=toupper(tekrar);
             sayac=1, k=0, l=0, m=0;
+            
+
         }    
+        else if(cevap[0]=='E'){
+            printf("Yarışmadan %d ₺ ile çekildin\n",para);
+        }
     } while (tekrar == 'E');
     system("pause");
     return 0;
@@ -115,7 +118,7 @@ void tanitim(){
     system("CLS"); 
     printf("\t\t\t\t\tMerhaba "); 
     puts(isim);
-    printf("\t\t\t\tYarışmada toplamda 10 soru bulunmakta.\n\t\t\tHer doğru cevabın için ödül havuzunda paran birikir.\n\tYanlış cevabında ise bu havuzundaki paranın sadece 1/2'sini alabilirsin ve ardından yarışma sona erer.\n");
+    printf("\t\t\t\tYarışmada toplamda 10 soru bulunmakta.\n\t\t\tHer doğru cevabın için ödül havuzunda paran birikir.\n\tYanlış cevabında ise bu havuzundaki paranın sadece 1/2'sini alabilirsin ve ardından yarışma sona erer.\n\t\tJokerlerin için Yarı Yarıya(yy), İki Cevap(ic), Yeni Soru(ys) yazabilirsin.\n");
     printf("\t\t\t\t\tHaydi başlayalım!");
     Sleep(10000); 
     system("CLS");
@@ -210,7 +213,7 @@ void ikiCevapJ(){
 
 void yeniSoruJ(){
     
-    if(m==0) //yönlendir fonk git (sayaca bak sayaca göre uygun random soru çeken fonksiyona git )
+    if(m==0) //yönlendir fonk git (sayaca bak sayaca göre uygun random soru çeken fonksşyona git )
     {
         m++;
         system("cls");

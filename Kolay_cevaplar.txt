@@ -1,0 +1,25 @@
+A)Kaç gün kaldı?	B)Kaçta gelirsin?	C)Kaç gibi biter?	-D)Kaça gidiyorsun?
+-A)Direk	B)Kemer 	C)Delik 	D)Kemik
+-A)Dirayetli	B)Temkinli	C)Görgülü	D)Sıhhatli
+-A)Darbuka	B)Kanun	        C)Piyano	D)Keman
+A)Üç vakte kadar	-B)Sonsuza kadar	C)Kırk gün kırk gece	 D)Ay sonuna kadar
+A)6	B)9	-C)12	 D)15
+A)Sinema filmi	-B)Televizyon dizisi	C)Futbol maçı	D)Haber bülteni
+-A)9	B)18	C)27	D)36
+-A)Kara kedi	B)Kara koyun	C)Kara keçi	D)Kara tavuk
+A)Elma	  B)Limon	C)Domates	-D)Portakal
+A)Dörtdörtlük  	B)Dörtkenar    C)Dörtçeker	-D)Dörtkose
+A)Kitap	  -B)Harçlık    C)Çiçek    D)Tansiyon aleti
+-A)Dudak okumak	   B)Kulak asmak	   C)Dudak bükmek    D)Kulak kesilmek
+A)Draco Malfoy	 B)Rubeus Hagrid   C)Tom Marvolo Riddle	  -D)Severus Snape
+A)Pilot	 -B)Demo   C)Tera   D)Backup
+A)Makas  -B)Kilit   C)Zincir	D)Şerit
+A)Sirke	  -B)Tuz	C)Süt   D)Şeker
+-A)Beşgen   B)Altıgen	C)Üçgen	  D)Dörtgen
+A)Kolların neden bu kadar uzun?	  B)Dişlerin neden bu kadar sivri?	C)Kulakların neden bu kadar büyük?	-D)Bakışların neden bu kadar derin?
+A)Oksijen   B)Hidrojen    -C)Azot   D)Helyum
+-A)16	 B)-5	 C)21	 D)14
+A)Kodu çalıştırmak için kullanılır.	B)Kodu devam ettirmek için kullanılır.	 -C)Döngüden çıkmak için kullanılır.	 D)Döngüyü en başa döndürür.
+A)1011 1100	-B)0001 1000	   C)0100 0011	   D)1001 1100
+A)0110 0100   B)0011 0110   -C)1001 0010   D)1001 0011
+A)Yazolan kod dizisindeki hataları tarar.    B)Kodun yanlış kısmını tarayarak otomatik bir şekilde düzeltir.    -C)Kullanıcının klavyeden girdiği değeri okur.    D)Kod dizisinde arama bölmesini ortaya çıkarır.

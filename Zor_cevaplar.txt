@@ -1,0 +1,25 @@
+A)Mavi    B)Sarı    -C)Yeşil    D)Kırmızı
+A)Lizbon-Roma    -B)Dresten-Vatikan    C)Londra-Budapeşte    D)Paris-Varşova
+A)Batı    B)Kuzey    -C)Güney    D)Doğu
+A)Burak Çağlar    B)Mahir Arabul    C)Tolga Bilge    -D)Tamer Şahin
+A)Sığla    -B)Söğüt    C)Gülibrişim    D)Çobanpüskülü
+A)Sinop    B)Samsun    -C)Giresun    D)Ordu
+-A)Emlake yatırım yapmak    B)Emlaka yatırım yapmak    C)Emlaa yatırım yapmak    D)Emlağa yatırım yapmak
+A)Posta pulu B)Bitki pulu -C)İskambil kağıdı D)Cam boncuk
+A)50 B)100 C)150 -D)200
+A)Uzaya çıkmak    B)Manş Denizi'ni yüzerek geçmek    -C)Everest'in zirvesine tırmanmak    D)Atlas Okyanusu'nu yelkenliyle geçmek
+A)Domates    B)Mısır    C)Avokado    -D)Muz
+-A)Paris    B)Viyana    C)Berlin    D)İstanbul
+A)Şans    B)Pul    -C)Tahta    D)Zar
+A)Muhabbet Kuşu    -B)Zürafa    C)Sırtlan    D)Su aygırı
+-A)Tezhip    B)Telkari    C)Hat    D)Gravur
+A)Deniz tuzluluğunu    B)Çikolata tatlılığını    C)Limon ekşiliğini    -D)Biber acılığını
+A)Kirpi    B)Arı    -C)Karınca    D)Çekirge
+-A)Kaplumbağa    B)Bukalemun    C)Yarasa    D)Kurbağa
+A)Parnasyen    B)Gaseyan    -C)Peskataryan    D)Devoniyen
+-A)K harf    B)M harfi    C)R harfi    D)S harfi
+A)00011000    B)00010101    -C)00001000    D)11101010
+A)00110101    B)00000001    -C)00000000    D)11010100
+A)47    -B)20    C)0    D)17
+A)25    B)22    C)23    -D)24
+A)00001000    B)11100100    -C)00011101    D)11100010

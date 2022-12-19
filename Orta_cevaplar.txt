@@ -1,0 +1,25 @@
+-A)I.Dünya Savaşı   B)Kore Savaşı   C)II.Dünya Savaşı   D)Trablusgarp Savaşı
+A)Sivasspor   -B)Antalyaspor	C)Erzurumspor	D)Giresunspor
+A)Mahmut ve Hafize   B)Münir ve Adile   -C)Kazım ve Saadet   D)Yaşar ve Melek 
+A)Kayahan   -B)Erol Büyükburç	C)Azer Bülbül	D)Müslüm Gürses
+-A)Sodyumun simgesi F'dir   B)Fosforun simgesi P'dir	C)Potasyumun simgesi K'dir   D)Külürdün simgesi S'dir
+A)Plonjon   B)Hukşat   C)Degaj   -D)Cemşut
+A)Atmış	  -B)Altmış   C)Altımış	  D)Elli on
+-A)Korkusuz Korkak   B)Süt Kardeşler   C)Mavi Boncuk   D)Canım Kardeşim
+A)Neil Armstrong   B)Yuri Gagarin   C)Buzz Aldrin   -D)Aleksey Leonov
+-A)Deli bal   B)Mecnun bal   C)Aşık bal	  D)Divane bal
+-A)Avrupa   B)Afrika   C)Amerika   D)Antartika
+A)41	B)43	C)51	-D)53
+A)Yeşil Zümrütlü Fistan   B)Kırmızı Yakutlu Mintan   C)Sarı safirli Hilat   -D)Pembe İncili Kaftan
+A)Süphan Dağı, Kayseri'dedir   -B)Zeugma Antik Kenti, Gaziantep'tedir   C)Ölü Deniz, Antalya'dadır   D)Tortum Şelalesi, Erzincan'dadır
+A)A     B)Az	-C)N	 D)Nt
+-A)Selamsız    B)Haraptar    C)Mesudiye    D)Harran
+-A)Kuzey Makedonya    B)Sırbistan    C)Arnavutluk    D)Romanya 
+A)Real Madrid    -B)Juventus    C)Barcelona    D)Liverpool
+A)Aydın ve İzmir    B)Kütahya ve Eskişehir    C)Mlatya ve Sivas    -D)Ordu ve Samsun 
+-A)Travis Bickle    B)Tyler Durden    C)Vito Corleone    D)Hannibal Lecter
+A)4.5    B)5    C)5.5    -D)6
+A)Taşınabilir olması    B)Modüler olması    -C)Nesne Yönelimli olması    D)Hızlı olması
+A)Bilgisayarda    -B)Unix işletim sisteminde    C)windows işletim sisteminde    D)ICC sistemlerde
+A)printf("\n\n\n");    B)printf("\a\a");    -C)printf("\a\a\a");    D)printf("\t\t\t");
+-A)30    B)10    C)0    D)20

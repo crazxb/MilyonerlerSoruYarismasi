@@ -1,0 +1,25 @@
+Okutulan tarih kitabında anlatılan  ve taraflaran birinde Avusturya-Macaristan imparatorluğu'nun yer aşldığı savaş hangisi olabilir?
+Süper Lig'deki hangi futbol takımından "Akrepler" lakabıyla bahsedilir?
+"Neşeli Günler" adlı filmde Münir Özkul ve Adile Naşit'in canlandırdığı turşu ve turşu suyunun iyisi konusunda kavga eden karakterlerin adları nelerdir?
+"Yerli Elvis", 1970'lerde Türk müziğinde önde gelen isimlerdendi" cümlesinin geçtiği bir haberde bahisedilen hangisi olabilir?
+Hangi bilgi yanlıştır?
+"Basketbolda rakibe yüklenip aniden geri çekilerek  ve dönerken zıplayarak atılan şut" hangisinin sözlük tanımıdır?
+"Elli dokuzdan sonra gelen sayının adı" hangi kelimenin TDK Güncel Türkçe Sözlük'teki tanımıdır?
+Hangisi Halit Akçetepe'nin rol aldığı bir film değildiğr?
+Aracından dşarı çıkarak uzayda "yürüyen" ilk insan kimdir?
+Hangisi bir çeşit acı bala verilen addır?
+Pireneler'e tırmanan bir dağcı hangi kıtadadır?
+"Atatürk'ün Samsun'a çıktığı gün" doğan bir bebek Türkiye'de cumghuriyet ilan edildiğinde kaç aylıktır?
+Ömer Seyfetti'nin hangi adda bir hikayesi vardıdr?
+Hangisi doğrudur?
+Dünya atmosferinin yaklaşık yüzde 78'ini oluşturan elementin simgesi nedir?
+Başrolun Şener Şen'in olduğu "Selamsız Bandosu" adlı filmin hikayesinin geçtiği kurgusal kasabanın adı nedir?
+Hangi ülkenin hem Yunanistan'la hem de Bulgaristan'la sınırı vardır?
+UEFA Şampiyonlar Liginde 7 kez kaybederek "Şampiyonlar Ligi finalinde en çok kaybeden futbol takımı" ünvanına sahip olan hangisidi?
+"Perşembe'den Çarşamba'ya giderek zamanda yolculuk yaptım" diyen biri hangi illerin arasında yaptığı yolculuğu espirili bir dille anlatmış olur?
+Hangi ünlü film karakteri Vietnam Savaşı'na katılmıştır?
+Aşağıdaki kod çalıştırıldığında ekran çıktısı ne olur? ==> printf(“%d”, (3-2)*5-2/4 );		
+Hangisi C dilinin temel özelliklerinden biri değildir?
+C ilk olarak nerede kullanılmıştır?
+printf komutu kullanırken üç kez bip sesi çıkarabilmesi için yazılması gereken kod hangisidir?
+x = 5 > 8 ? 10 : 1 != 2 < 5 ? 20 : 30; ==>X kaç olur?

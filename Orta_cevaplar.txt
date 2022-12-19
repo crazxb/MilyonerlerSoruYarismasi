@@ -18,7 +18,7 @@ A)A     B)Az	-C)N	 D)Nt
 A)Real Madrid    -B)Juventus    C)Barcelona    D)Liverpool
 A)Aydın ve İzmir    B)Kütahya ve Eskişehir    C)Mlatya ve Sivas    -D)Ordu ve Samsun 
 -A)Travis Bickle    B)Tyler Durden    C)Vito Corleone    D)Hannibal Lecter
-A)4.5    B)5    C)5.5    -D)6
+-A)4.5    B)5    C)5.5    D)6
 A)Taşınabilir olması    B)Modüler olması    -C)Nesne Yönelimli olması    D)Hızlı olması
 A)Bilgisayarda    -B)Unix işletim sisteminde    C)windows işletim sisteminde    D)ICC sistemlerde
 A)printf("\n\n\n");    B)printf("\a\a");    -C)printf("\a\a\a");    D)printf("\t\t\t");

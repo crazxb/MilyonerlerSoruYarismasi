@@ -91,7 +91,7 @@ int main(){
             printf("Sorun yanlış.Kaybettin\nMalesef %d ₺ ile seni yolluyoruz.\n",para/2);
             break; 
             }        
-        } while (sayac!=11);
+        } while (sayac!=11 && x!=0);
     
         if(sayac==11){
             printf("Tebrikler! 10. soruyu cevaplayarak 1.000.000 ₺'nin sahibi oldunuz!\n\n\a\a\a\a");
@@ -99,11 +99,15 @@ int main(){
             tekrar=getch();
             tekrar=toupper(tekrar);
             sayac=1, k=0, l=0, m=0;
-            
-
         }    
         else if(cevap[0]=='E'){
             printf("Yarışmadan %d ₺ ile çekildin\n",para);
+        }
+        else if(x==0){
+            printf("Tekrar oynamak ister misiniz? Evet(E) veya Hayır(H) tuşlayınız.\t\n\n");
+            tekrar=getch();
+            tekrar=toupper(tekrar);
+            sayac=1, k=0, l=0, m=0;
         }
     } while (tekrar == 'E');
     system("pause");

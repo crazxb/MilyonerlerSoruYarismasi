@@ -23,7 +23,7 @@ int m=0; //Yeni soru jokeri kontrolü ys
 char isim[16]; //OYUNU OYNAYAN KULLANICININ ADI
 char cevap[3]; //KULLANICININ SORUYA GİRDİĞİ CEVAP (ic,ys,yy,a,b,d,c) girilebilir
 char kolayCVPA[CVP_ANAHTAR_U]={'D','A','A','A','B','C','B','A','A','D','D','B','A','D','B','B','B','A','D','C','A','C','B','C','C'}; //1-3 ARASI ÇEKİLECEK SORULARIN CEVAPLARI
-char ortaCVPA[CVP_ANAHTAR_U]={'A','B','C','B','A','D','B','A','D','A','A','D','D','B','C','A','A','B','D','A','D','C','B','C','A'}; //3-7 ARASI ÇEKİLECEK SORULARIN CEVAPLARI
+char ortaCVPA[CVP_ANAHTAR_U]={'A','B','C','B','A','D','B','A','D','A','A','D','D','B','C','A','A','B','D','A','A','C','B','C','A'}; //3-7 ARASI ÇEKİLECEK SORULARIN CEVAPLARI
 char zorCVPA[CVP_ANAHTAR_U]={'C','B','C','D','B','C','A','C','D','C','D','A','C','B','A','D','C','A','C','A','C','C','B','D','C'}; //7-10 ARASI ÇEKİLECEK SORULARIN CEVAPLARI
 
 //---FONKSİYONLARIN PROTOTİPLERİ/AÇIKLAMASI---
